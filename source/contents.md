@@ -235,6 +235,11 @@
 ### Transition
 
 ### Transform
+\begin{bmatrix}
+0      & \cdots & 0      \\
+\vdots & \ddots & \vdots \\
+0      & \cdots & 0
+\end{bmatrix}
 
 ### translate
 
