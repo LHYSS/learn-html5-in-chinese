@@ -1,5 +1,7 @@
 # HTML5
 
+$ 数学公式 $
+
 ## HTML Markup
 
 ### DOCTYPE
