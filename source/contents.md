@@ -1,7 +1,5 @@
 # HTML5
 
-$ 数学公式 $
-
 ## HTML Markup
 
 ### DOCTYPE
@@ -237,6 +235,11 @@ $ 数学公式 $
 ### Transition
 
 ### Transform
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 ### translate
 
