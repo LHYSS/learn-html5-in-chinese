@@ -1,4 +1,8 @@
-\[a^2 + b^2 = c^2\]
+\\(\begin{bmatrix}
+m11 & m12 & m13 &
+m21 & m22 & m23 &
+m31 & m32 & m33 
+\end{bmatrix}\\)
 
 # HTML5
 
